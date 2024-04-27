@@ -1,14 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Sen:wght@400..800&display=swap');
 
 *{
-     font-size = 100px;  
-     // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 400 to 800
-
-.sen-<uniquifier> {
   font-family: "Sen", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
-}
 }
